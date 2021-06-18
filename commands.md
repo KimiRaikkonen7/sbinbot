@@ -15,3 +15,5 @@
 ### bin-reload (reload commands)                                                                                                      
 ### bin-restart (restart the bot)                                                                                                            
 ### bin-debug (debug the bot)
+
+### https://discord.com/oauth2/authorize?client_id=850247889295900702&permissions=8&scope=bot <-- add bot to the server
